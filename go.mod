@@ -8,15 +8,15 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.4
 	github.com/projectdiscovery/cdncheck v0.0.1
 	github.com/projectdiscovery/clistats v0.0.5
-	github.com/projectdiscovery/fastdialer v0.0.2
+	github.com/projectdiscovery/fastdialer v0.0.15
 	github.com/projectdiscovery/fdmax v0.0.2
-	github.com/projectdiscovery/gologger v1.0.1
-	github.com/projectdiscovery/hmap v0.0.1
-	github.com/projectdiscovery/mapcidr v0.0.4
-	github.com/projectdiscovery/rawhttp v0.0.4
-	github.com/projectdiscovery/retryablehttp-go v1.0.1
+	github.com/projectdiscovery/gologger v1.1.4
+	github.com/projectdiscovery/hmap v0.0.2-0.20210917080408-0fd7bd286bfa
+	github.com/projectdiscovery/mapcidr v0.0.8
+	github.com/projectdiscovery/rawhttp v0.1.2
+	github.com/projectdiscovery/retryablehttp-go v1.0.2
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.2.1
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
-	golang.org/x/text v0.3.4
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
+	golang.org/x/text v0.3.7
 )
